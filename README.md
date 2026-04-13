@@ -1,4 +1,4 @@
-Hi! Im Dhilan
+Hi! I'm Dhilan
 
 I'm studying cs, math, and philosophy at UT Austin 
 
