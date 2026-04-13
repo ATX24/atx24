@@ -1,12 +1,11 @@
-# Hi, I'm Dhilan, a student studying CS, philosophy, and math @ UT Austin
+Hi! Im Dhilan
 
-## Currently 
-Working at Boundary (YC W23) 
+I'm studying cs, math, and philosophy at UT Austin 
 
-## Previously
-- SWE Intern @ Balkan ID (Copilot team, authenticated MCP server)
-- Research Assistant @ UT ECE (LLM post-training quantization)
-- NASA SEES Intern (CNN architectures for mosquito classification)
+Currently, I work at Boundary (YC W23) 
 
-## Reach me
-dhilan.shah23@gmail.com
+Previously, I worked as a SWE Intern @ Balkan ID on the Copilot team
+I did research @ UT (LLM post training quantization) and NASA (CNN architectures) 
+
+
+I want to be happy and help people
